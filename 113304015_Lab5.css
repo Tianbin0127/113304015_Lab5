@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+thead th {
+    background-color: lightgray;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+tfoot td {
+    font-weight: bold;
+}
